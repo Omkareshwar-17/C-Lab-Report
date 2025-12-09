@@ -12,6 +12,7 @@
 
 ## Index
 [EXPERIMENT 01 – INSTALLATION, ENVIRONMENT SETUP & BASIC C PROGRAMS.pdf](https://github.com/Omkareshwar-17/C-Lab-Report/blob/master/EXPERIMENT%2001%20%E2%80%93%20INSTALLATION%2C%20ENVIRONMENT%20SETUP%20%26%20BASIC%20C%20PROGRAMS.pdf))
-https://github.com/Omkareshwar-17/C-Lab-Report/blob/master/EXPERIMENT02%20OPERATORS.pdf
+[EXPERIMENT02 OPERATORS.pdf
+]https://github.com/Omkareshwar-17/C-Lab-Report/blob/master/EXPERIMENT02%20OPERATORS.pdf
 https://github.com/Omkareshwar-17/C-Lab-Report/blob/master/EXPERIMENT03.1%20CONDITIONAL%20STATEMENTS.pdf
 https://github.com/Omkareshwar-17/C-Lab-Report/blob/master/EXPERIMENT03.2%20%E2%80%93%20LOOPS.pdf
